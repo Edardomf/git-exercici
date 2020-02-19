@@ -1,1 +1,1 @@
-El primer texto en carpeta (rama master)
+El segundo texto en carpeta (rama master)
