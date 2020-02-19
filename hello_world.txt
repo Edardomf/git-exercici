@@ -1,1 +1,1 @@
-El primer cambio de texto (rama branch1)
+Segundo cambio de texto (rama branch1)
