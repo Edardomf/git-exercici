@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Segundo cambio de texto (rama branch1)
+=======
+El tercer texto en carpeta (rama master)
+>>>>>>> master
